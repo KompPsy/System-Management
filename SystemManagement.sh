@@ -5,7 +5,7 @@
 # April 21, 2022
 #
 # Description:
-# This Script is intended for Managing Dell IDrac Actions
+# This Script is intended for Managing Linux Host(s) and IDrac Actions
 #
 # Version:
 # 1.0
