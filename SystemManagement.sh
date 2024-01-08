@@ -2,7 +2,7 @@
 ###################################################################
 #
 # Date:
-# April 21, 2022
+# April 21, 2023
 #
 # Description:
 # This Script is intended for Managing Linux Host(s) and IDrac Actions
@@ -170,7 +170,7 @@ echo -e " "
 case $optionsSet2 in
 
   1) echo -e " Obtaining Power Status"
-     $powerstatusSet2
+     $powerstatus
   ;;
 
   2) echo -e " Powering up"
